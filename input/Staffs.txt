@@ -1,0 +1,23 @@
+T004,Nguyen Thanh Huy,A
+T005,Tran Trung Nghia,B
+A004,Nguyen Kim Thuy,1
+A005,Nguyen Thanh Ha,3
+T006,Tran Anh Dung,C
+A002,Pham Hong Duc,2
+T009,Tran Dang Quoc Huy,A
+T010,Nguyen Ngoc Huyen,C
+A003,Nguyen Pham Minh Khoa,4
+T001,Cao Dang Khoa,C
+T002,Tran Thanh Hung,B
+A103,Nguyen Phung Nguyen,2
+T027,Nguyen Thanh Huy, A
+T106,Do Thi Thu Phuong,C
+A127,Nguyen Van Hau,3
+T028,Lam Anh Huy,A
+A908,Nguyen Van Dung,4
+T8009,Tran Nguyen Lam Anh,A
+T018,Cao Tran Anh,B
+A201,Nguyen Thanh Thuy,1
+T002,Nguyen Dinh Minh Khoi,C
+T503,Tran Van Thanh,B
+A451,Nguyen Huu An,3

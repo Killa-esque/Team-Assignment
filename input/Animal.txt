@@ -1,0 +1,22 @@
+B001,Bird 1,Yellow,Rared
+B002,Bird 2,Purple,Rared
+B003,Bird 3,Violet,Normal
+B004,Bird 4,Aquamarine,Rared
+B005,Bird 5,Brown,Normal rared
+B006,Bird 6,Green,Rared
+B007,Bird 7,Red,Unrared
+B008,Bird 8,Red,Super rared
+B009,Bird 9,Yellow,Normal
+F001,Fish 1,2.8,filiform 
+F002,Fish 2,3.6,depressed 
+F003,Fish 3,7.2,compressed 
+F004,Fish 4,5.6,vermiform 
+F005,Fish 5,3.2,filiform 
+F006,Fish 6,4.2,vermiform 
+F007,Fish 7,1.8,filiform 
+R001,Alligators,scales,true
+R002,Crocodiles,bony plates,false
+R004,Lizard,scales,true
+R005,Snakes,bony plates,false
+R006,Python,scales,true
+R007,Turtle,bony plates,false
